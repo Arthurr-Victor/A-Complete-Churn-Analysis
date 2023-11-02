@@ -51,8 +51,12 @@ Finally, using cross-validation techniques and performance metrics such as AUC-R
    Logistic regression analysis highlights that customers lacking Techsupport and OnlineSecurity services experience higher churn rates. It's advisable to promote customer sign-ups for these services through targeted marketing campaigns, emphasizing their significance and benefits.
 
 **6. Promoting Automatic Payments:**
-   The convenience of automated payments minimizes the likelihood of late fees and dissatisfaction leading to churn. Promoting auto-payment options and emphasizing their advantages improves retention rates.
 
+- The convenience of automated payments minimizes the likelihood of late fees and dissatisfaction leading to churn. Promoting auto-payment options and emphasizing their advantages improves retention rates.
+- Customers with annual or biennial contracts tend to be more loyal.
+- Calculated the expected value of $95 per customer by applying the model to real-world scenarios.
+- The model successfully identified 72% of potential churn cases during validation.
+  
 ## Conclusion
 
 In conclusion, this analysis provides valuable insights into reducing churn and enhancing customer retention. These recommendations can guide strategic decisions, and they reflect our commitment to delivering exceptional service to our customers. We encourage further discussions and actions based on these findings to improve our business performance.
